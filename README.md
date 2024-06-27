@@ -1,5 +1,4 @@
-Solutions for Leetcode.
+## Solutions for Leetcode.
 
-Current Languages:
-
-Rust
+### Current Languages:
+  - Rust
